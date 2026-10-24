@@ -563,7 +563,7 @@ import {
 } from "recharts";
 import "./App.css";
 
-const API = "http://127.0.0.1:5000";
+const API_BASE_URL = "https://cardiotwin-ai-1.onrender.com";
 
 function getNumber(data, keys, fallback = 0) {
   for (const key of keys) {
