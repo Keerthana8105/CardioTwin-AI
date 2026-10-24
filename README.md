@@ -20,6 +20,9 @@ CardioTwin AI is an experimental digital health twin prototype that demonstrates
 - Machine learning: scikit-learn, pandas, joblib
 - Data: Synthetic CSV datasets
 
+  ## System Architecture
+  https://drive.google.com/file/d/1JsEYEA1s5ASgU5rOQumsbgEv45cWW7KJ/view?usp=sharing
+
 ## Project Structure
 - `frontend/` — React user interface
 - `backend/` — Flask API and model-training scripts
